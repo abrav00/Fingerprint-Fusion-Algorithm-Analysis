@@ -1,0 +1,24 @@
+One of the issues when looking into developing
+fingerprinting is finding the best algorithm or
+mix of algorithms to extract and match features
+in fingerprints. This is known as fusion
+algorithms, this is where our project aims to
+solve and answer the benefits and ways of
+improving singular feature extraction matching
+algorithms by pairing the two feature extractors
+together to get a deeper understanding of how
+fingerprinting algorithms work and where they
+are able to show their strengths as well as
+weaknesses. Firstly we review existing
+algorithms and approaches to implement our
+singleton algorithms for local, global, and ridge
+based feature extractors. After that we then
+research and find algorithms for fusion matching
+algorithms that utilize pairs of these algorithms
+to have as a comparison point. After researching
+we start implementation for image
+pre-processing which will be consistent for all
+our matching algorithms as a base line and our
+findings will use the FCV 2000 DB, specifically
+the 2000 DB3 database for fingerprints, which
+was mainly used for testing.
